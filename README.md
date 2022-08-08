@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solarin Ayomide</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Fullstack developer from Nigeria</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Solarin Ayo;Chief+Technology+Officer+💻;+Cyber+Security+Officer+🛡️;+Loves+To+Build+Products+✨;+Open+Source+Contributor+✌;+Top+1%+in+GitHub+💡;+Building+Next+Gen+SaaS+🕵;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
