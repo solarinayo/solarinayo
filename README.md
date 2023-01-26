@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solarinayo" alt="solarinayo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/niraloz__ayo" target="blank"><img src="https://img.shields.io/twitter/follow/niraloz__ayo?logo=twitter&style=for-the-badge" alt="niraloz__ayo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayosolarin" target="blank"><img src="https://img.shields.io/twitter/follow/niraloz__ayo?logo=twitter&style=for-the-badge" alt="niraloz__ayo" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [solarinayo.netliffy.app](solarinayo.netliffy.app)
 
